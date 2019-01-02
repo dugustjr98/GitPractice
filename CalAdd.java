@@ -9,5 +9,6 @@ public class CalAdd {
         int b = sc.nextInt();
         int sum = a+b;
         System.out.println(a+" 와 "+b+" 를 더하면 "+ sum + " 입니다.");
+        System.out.println("안녕하세요;");
     }
 }
